@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+    background-image: url(https://ak.picdn.net/shutterstock/videos/1018494085/thumb/1.jpg);
+}
+.C{
+    text-align: center;
+    color: antiquewhite;
+    font-size: 70px;
+}
+.C1{
+    color:rgb(74, 127, 202);
+    font-size: 150px;
+    text-align: centre;
+   
+}
+.C2{
+    border: 3px green;
+    /* background-color: rgb(241, 249, 255); */
+    margin: 12px 3px ;
+    padding: 12px 3px;
+    
+    border-bottom-right-radius: 40px;
+    width: 1600px;
+}
+.C3{
+    background-color: rgba(188, 190, 194, 0.686);
+    /* background-color: rgb(0, 238, 255); */
+    border: 8px solid rgba(128, 128, 128, 0.941);
+    color: white;
+    border-radius: 5px;
+    font-family: 'Shizuru', cursive;
+    font-size: 40px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 8px;
+}
+.ce{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
